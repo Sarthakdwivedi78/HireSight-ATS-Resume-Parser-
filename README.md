@@ -24,7 +24,30 @@
 - **🎨 Modern & Responsive UI:** A clean, attractive, and user-friendly interface powered by Streamlit.
 - **🔒 Secure & Private:** Your resume is processed in real-time and is never stored or shared.
 
+
+
+<img width="1858" height="689" alt="Screenshot 2025-10-20 181307" src="https://github.com/user-attachments/assets/49e0ce1b-c4c0-4613-8c5d-a05f17d1aabc" />
+<img width="1742" height="914" alt="Screenshot 2025-10-20 181319" src="https://github.com/user-attachments/assets/100fa601-ff87-4fe8-8d7a-8097a6bd1397" />
+<img width="1858" height="950" alt="Screenshot 2025-10-20 181339" src="https://github.com/user-attachments/assets/2e192870-0bff-416f-9dc7-ddc79c2ae25e" />
+<img width="1685" height="526" alt="Screenshot 2025-10-20 181352" src="https://github.com/user-attachments/assets/bd3fc19a-3923-4d5b-9442-52a17d320291" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🛠️ Tech Stack
+
+<img width="1860" height="972" alt="Screenshot 2025-10-20 165154" src="https://github.com/user-attachments/assets/095d3a77-011d-45fb-a276-483d27253343" />
+<img width="1746" height="814" alt="Screenshot 2025-10-20 164129" src="https://github.com/user-attachments/assets/115fc33f-16f4-422f-b15b-3a3f33e1aa30" />
+
 
 HireSight leverages a powerful Python backend to perform its analysis. The core components are:
 
